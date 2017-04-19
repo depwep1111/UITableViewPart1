@@ -14,6 +14,44 @@
 		765DC5B21EA754D9004BF9BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5B01EA754D9004BF9BD /* LaunchScreen.storyboard */; };
 		765DC5BD1EA754DA004BF9BD /* UITableViewTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765DC5BC1EA754DA004BF9BD /* UITableViewTestTests.swift */; };
 		765DC5C81EA754DA004BF9BD /* UITableViewTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765DC5C71EA754DA004BF9BD /* UITableViewTestUITests.swift */; };
+		765DC5F91EA7552D004BF9BD /* airport-express.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5D61EA7552D004BF9BD /* airport-express.tif */; };
+		765DC5FA1EA7552D004BF9BD /* airport-extreme.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5D71EA7552D004BF9BD /* airport-extreme.tif */; };
+		765DC5FB1EA7552D004BF9BD /* airport-time-capsule.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5D81EA7552D004BF9BD /* airport-time-capsule.tif */; };
+		765DC5FC1EA7552D004BF9BD /* aperture.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5D91EA7552D004BF9BD /* aperture.tif */; };
+		765DC5FD1EA7552D004BF9BD /* apple-pay.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DA1EA7552D004BF9BD /* apple-pay.tif */; };
+		765DC5FE1EA7552D004BF9BD /* apple-tv.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DB1EA7552D004BF9BD /* apple-tv.tif */; };
+		765DC5FF1EA7552D004BF9BD /* apple-watch.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DC1EA7552D004BF9BD /* apple-watch.tif */; };
+		765DC6001EA7552D004BF9BD /* apple-wireless-keyboard.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DD1EA7552D004BF9BD /* apple-wireless-keyboard.tif */; };
+		765DC6011EA7552D004BF9BD /* battery-charger.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DE1EA7552D004BF9BD /* battery-charger.tif */; };
+		765DC6021EA7552D004BF9BD /* display.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5DF1EA7552D004BF9BD /* display.tif */; };
+		765DC6031EA7552D004BF9BD /* eyeball.png in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E01EA7552D004BF9BD /* eyeball.png */; };
+		765DC6041EA7552D004BF9BD /* final-cut-pro-x.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E11EA7552D004BF9BD /* final-cut-pro-x.tif */; };
+		765DC6051EA7552D004BF9BD /* icloud.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E21EA7552D004BF9BD /* icloud.tif */; };
+		765DC6061EA7552D004BF9BD /* ilife.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E31EA7552D004BF9BD /* ilife.tif */; };
+		765DC6071EA7552D004BF9BD /* imac-5k.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E41EA7552D004BF9BD /* imac-5k.tif */; };
+		765DC6081EA7552D004BF9BD /* ios8.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E51EA7552D004BF9BD /* ios8.tif */; };
+		765DC6091EA7552D004BF9BD /* ipad-air2.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E61EA7552D004BF9BD /* ipad-air2.tif */; };
+		765DC60A1EA7552D004BF9BD /* iphone6.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E71EA7552D004BF9BD /* iphone6.tif */; };
+		765DC60B1EA7552D004BF9BD /* ipod-nano.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E81EA7552D004BF9BD /* ipod-nano.tif */; };
+		765DC60C1EA7552D004BF9BD /* ipod-shuffle.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5E91EA7552D004BF9BD /* ipod-shuffle.tif */; };
+		765DC60D1EA7552D004BF9BD /* ipod-touch.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5EA1EA7552D004BF9BD /* ipod-touch.tif */; };
+		765DC60E1EA7552D004BF9BD /* itunes.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5EB1EA7552D004BF9BD /* itunes.tif */; };
+		765DC60F1EA7552D004BF9BD /* iwork.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5EC1EA7552D004BF9BD /* iwork.tif */; };
+		765DC6101EA7552D004BF9BD /* logic-pro-x.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5ED1EA7552D004BF9BD /* logic-pro-x.tif */; };
+		765DC6111EA7552D004BF9BD /* mac-mini.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5EE1EA7552D004BF9BD /* mac-mini.tif */; };
+		765DC6121EA7552D004BF9BD /* mac-pro.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5EF1EA7552D004BF9BD /* mac-pro.tif */; };
+		765DC6131EA7552D004BF9BD /* macbook-air.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F01EA7552D004BF9BD /* macbook-air.tif */; };
+		765DC6141EA7552D004BF9BD /* macbook-pro-13.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F11EA7552D004BF9BD /* macbook-pro-13.tif */; };
+		765DC6151EA7552D004BF9BD /* macbook-pro-retina.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F21EA7552D004BF9BD /* macbook-pro-retina.tif */; };
+		765DC6161EA7552D004BF9BD /* macbook.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F31EA7552D004BF9BD /* macbook.tif */; };
+		765DC6171EA7552D004BF9BD /* magic-mouse.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F41EA7552D004BF9BD /* magic-mouse.tif */; };
+		765DC6181EA7552D004BF9BD /* magic-trackpad.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F51EA7552D004BF9BD /* magic-trackpad.tif */; };
+		765DC6191EA7552D004BF9BD /* os-x.tif in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F61EA7552D004BF9BD /* os-x.tif */; };
+		765DC61A1EA7552D004BF9BD /* star_sel.png in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F71EA7552D004BF9BD /* star_sel.png */; };
+		765DC61B1EA7552D004BF9BD /* star_uns.png in Resources */ = {isa = PBXBuildFile; fileRef = 765DC5F81EA7552D004BF9BD /* star_uns.png */; };
+		765DC61F1EA7552E004BF9BD /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765DC61D1EA7552E004BF9BD /* Product.swift */; };
+		765DC6201EA7552E004BF9BD /* ProductLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765DC61E1EA7552E004BF9BD /* ProductLine.swift */; };
+		765DC6221EA75684004BF9BD /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765DC6211EA75684004BF9BD /* TestTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +85,44 @@
 		765DC5C31EA754DA004BF9BD /* UITableViewTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITableViewTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		765DC5C71EA754DA004BF9BD /* UITableViewTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewTestUITests.swift; sourceTree = "<group>"; };
 		765DC5C91EA754DA004BF9BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		765DC5D61EA7552D004BF9BD /* airport-express.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "airport-express.tif"; sourceTree = "<group>"; };
+		765DC5D71EA7552D004BF9BD /* airport-extreme.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "airport-extreme.tif"; sourceTree = "<group>"; };
+		765DC5D81EA7552D004BF9BD /* airport-time-capsule.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "airport-time-capsule.tif"; sourceTree = "<group>"; };
+		765DC5D91EA7552D004BF9BD /* aperture.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = aperture.tif; sourceTree = "<group>"; };
+		765DC5DA1EA7552D004BF9BD /* apple-pay.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "apple-pay.tif"; sourceTree = "<group>"; };
+		765DC5DB1EA7552D004BF9BD /* apple-tv.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "apple-tv.tif"; sourceTree = "<group>"; };
+		765DC5DC1EA7552D004BF9BD /* apple-watch.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "apple-watch.tif"; sourceTree = "<group>"; };
+		765DC5DD1EA7552D004BF9BD /* apple-wireless-keyboard.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "apple-wireless-keyboard.tif"; sourceTree = "<group>"; };
+		765DC5DE1EA7552D004BF9BD /* battery-charger.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "battery-charger.tif"; sourceTree = "<group>"; };
+		765DC5DF1EA7552D004BF9BD /* display.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = display.tif; sourceTree = "<group>"; };
+		765DC5E01EA7552D004BF9BD /* eyeball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eyeball.png; sourceTree = "<group>"; };
+		765DC5E11EA7552D004BF9BD /* final-cut-pro-x.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "final-cut-pro-x.tif"; sourceTree = "<group>"; };
+		765DC5E21EA7552D004BF9BD /* icloud.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = icloud.tif; sourceTree = "<group>"; };
+		765DC5E31EA7552D004BF9BD /* ilife.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = ilife.tif; sourceTree = "<group>"; };
+		765DC5E41EA7552D004BF9BD /* imac-5k.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "imac-5k.tif"; sourceTree = "<group>"; };
+		765DC5E51EA7552D004BF9BD /* ios8.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = ios8.tif; sourceTree = "<group>"; };
+		765DC5E61EA7552D004BF9BD /* ipad-air2.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "ipad-air2.tif"; sourceTree = "<group>"; };
+		765DC5E71EA7552D004BF9BD /* iphone6.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = iphone6.tif; sourceTree = "<group>"; };
+		765DC5E81EA7552D004BF9BD /* ipod-nano.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "ipod-nano.tif"; sourceTree = "<group>"; };
+		765DC5E91EA7552D004BF9BD /* ipod-shuffle.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "ipod-shuffle.tif"; sourceTree = "<group>"; };
+		765DC5EA1EA7552D004BF9BD /* ipod-touch.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "ipod-touch.tif"; sourceTree = "<group>"; };
+		765DC5EB1EA7552D004BF9BD /* itunes.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = itunes.tif; sourceTree = "<group>"; };
+		765DC5EC1EA7552D004BF9BD /* iwork.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = iwork.tif; sourceTree = "<group>"; };
+		765DC5ED1EA7552D004BF9BD /* logic-pro-x.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "logic-pro-x.tif"; sourceTree = "<group>"; };
+		765DC5EE1EA7552D004BF9BD /* mac-mini.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "mac-mini.tif"; sourceTree = "<group>"; };
+		765DC5EF1EA7552D004BF9BD /* mac-pro.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "mac-pro.tif"; sourceTree = "<group>"; };
+		765DC5F01EA7552D004BF9BD /* macbook-air.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "macbook-air.tif"; sourceTree = "<group>"; };
+		765DC5F11EA7552D004BF9BD /* macbook-pro-13.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "macbook-pro-13.tif"; sourceTree = "<group>"; };
+		765DC5F21EA7552D004BF9BD /* macbook-pro-retina.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "macbook-pro-retina.tif"; sourceTree = "<group>"; };
+		765DC5F31EA7552D004BF9BD /* macbook.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = macbook.tif; sourceTree = "<group>"; };
+		765DC5F41EA7552D004BF9BD /* magic-mouse.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "magic-mouse.tif"; sourceTree = "<group>"; };
+		765DC5F51EA7552D004BF9BD /* magic-trackpad.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "magic-trackpad.tif"; sourceTree = "<group>"; };
+		765DC5F61EA7552D004BF9BD /* os-x.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "os-x.tif"; sourceTree = "<group>"; };
+		765DC5F71EA7552D004BF9BD /* star_sel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_sel.png; sourceTree = "<group>"; };
+		765DC5F81EA7552D004BF9BD /* star_uns.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_uns.png; sourceTree = "<group>"; };
+		765DC61D1EA7552E004BF9BD /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		765DC61E1EA7552E004BF9BD /* ProductLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductLine.swift; sourceTree = "<group>"; };
+		765DC6211EA75684004BF9BD /* TestTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +175,11 @@
 			children = (
 				765DC5A71EA754D9004BF9BD /* AppDelegate.swift */,
 				765DC5A91EA754D9004BF9BD /* ViewController.swift */,
+				765DC6211EA75684004BF9BD /* TestTableViewController.swift */,
 				765DC5AB1EA754D9004BF9BD /* Main.storyboard */,
 				765DC5AE1EA754D9004BF9BD /* Assets.xcassets */,
+				765DC61C1EA7552E004BF9BD /* Model */,
+				765DC5D51EA7552D004BF9BD /* DemoAssets */,
 				765DC5B01EA754D9004BF9BD /* LaunchScreen.storyboard */,
 				765DC5B31EA754D9004BF9BD /* Info.plist */,
 			);
@@ -123,6 +202,57 @@
 				765DC5C91EA754DA004BF9BD /* Info.plist */,
 			);
 			path = UITableViewTestUITests;
+			sourceTree = "<group>";
+		};
+		765DC5D51EA7552D004BF9BD /* DemoAssets */ = {
+			isa = PBXGroup;
+			children = (
+				765DC5D61EA7552D004BF9BD /* airport-express.tif */,
+				765DC5D71EA7552D004BF9BD /* airport-extreme.tif */,
+				765DC5D81EA7552D004BF9BD /* airport-time-capsule.tif */,
+				765DC5D91EA7552D004BF9BD /* aperture.tif */,
+				765DC5DA1EA7552D004BF9BD /* apple-pay.tif */,
+				765DC5DB1EA7552D004BF9BD /* apple-tv.tif */,
+				765DC5DC1EA7552D004BF9BD /* apple-watch.tif */,
+				765DC5DD1EA7552D004BF9BD /* apple-wireless-keyboard.tif */,
+				765DC5DE1EA7552D004BF9BD /* battery-charger.tif */,
+				765DC5DF1EA7552D004BF9BD /* display.tif */,
+				765DC5E01EA7552D004BF9BD /* eyeball.png */,
+				765DC5E11EA7552D004BF9BD /* final-cut-pro-x.tif */,
+				765DC5E21EA7552D004BF9BD /* icloud.tif */,
+				765DC5E31EA7552D004BF9BD /* ilife.tif */,
+				765DC5E41EA7552D004BF9BD /* imac-5k.tif */,
+				765DC5E51EA7552D004BF9BD /* ios8.tif */,
+				765DC5E61EA7552D004BF9BD /* ipad-air2.tif */,
+				765DC5E71EA7552D004BF9BD /* iphone6.tif */,
+				765DC5E81EA7552D004BF9BD /* ipod-nano.tif */,
+				765DC5E91EA7552D004BF9BD /* ipod-shuffle.tif */,
+				765DC5EA1EA7552D004BF9BD /* ipod-touch.tif */,
+				765DC5EB1EA7552D004BF9BD /* itunes.tif */,
+				765DC5EC1EA7552D004BF9BD /* iwork.tif */,
+				765DC5ED1EA7552D004BF9BD /* logic-pro-x.tif */,
+				765DC5EE1EA7552D004BF9BD /* mac-mini.tif */,
+				765DC5EF1EA7552D004BF9BD /* mac-pro.tif */,
+				765DC5F01EA7552D004BF9BD /* macbook-air.tif */,
+				765DC5F11EA7552D004BF9BD /* macbook-pro-13.tif */,
+				765DC5F21EA7552D004BF9BD /* macbook-pro-retina.tif */,
+				765DC5F31EA7552D004BF9BD /* macbook.tif */,
+				765DC5F41EA7552D004BF9BD /* magic-mouse.tif */,
+				765DC5F51EA7552D004BF9BD /* magic-trackpad.tif */,
+				765DC5F61EA7552D004BF9BD /* os-x.tif */,
+				765DC5F71EA7552D004BF9BD /* star_sel.png */,
+				765DC5F81EA7552D004BF9BD /* star_uns.png */,
+			);
+			path = DemoAssets;
+			sourceTree = "<group>";
+		};
+		765DC61C1EA7552E004BF9BD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				765DC61D1EA7552E004BF9BD /* Product.swift */,
+				765DC61E1EA7552E004BF9BD /* ProductLine.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +362,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				765DC6141EA7552D004BF9BD /* macbook-pro-13.tif in Resources */,
+				765DC6041EA7552D004BF9BD /* final-cut-pro-x.tif in Resources */,
+				765DC6121EA7552D004BF9BD /* mac-pro.tif in Resources */,
+				765DC60E1EA7552D004BF9BD /* itunes.tif in Resources */,
+				765DC61B1EA7552D004BF9BD /* star_uns.png in Resources */,
+				765DC6161EA7552D004BF9BD /* macbook.tif in Resources */,
+				765DC5FB1EA7552D004BF9BD /* airport-time-capsule.tif in Resources */,
+				765DC5FA1EA7552D004BF9BD /* airport-extreme.tif in Resources */,
+				765DC6131EA7552D004BF9BD /* macbook-air.tif in Resources */,
+				765DC60B1EA7552D004BF9BD /* ipod-nano.tif in Resources */,
+				765DC6031EA7552D004BF9BD /* eyeball.png in Resources */,
+				765DC5FF1EA7552D004BF9BD /* apple-watch.tif in Resources */,
+				765DC6171EA7552D004BF9BD /* magic-mouse.tif in Resources */,
+				765DC6191EA7552D004BF9BD /* os-x.tif in Resources */,
+				765DC6101EA7552D004BF9BD /* logic-pro-x.tif in Resources */,
+				765DC6111EA7552D004BF9BD /* mac-mini.tif in Resources */,
+				765DC60C1EA7552D004BF9BD /* ipod-shuffle.tif in Resources */,
+				765DC5F91EA7552D004BF9BD /* airport-express.tif in Resources */,
+				765DC6081EA7552D004BF9BD /* ios8.tif in Resources */,
+				765DC6181EA7552D004BF9BD /* magic-trackpad.tif in Resources */,
+				765DC5FC1EA7552D004BF9BD /* aperture.tif in Resources */,
+				765DC6071EA7552D004BF9BD /* imac-5k.tif in Resources */,
+				765DC6151EA7552D004BF9BD /* macbook-pro-retina.tif in Resources */,
+				765DC60F1EA7552D004BF9BD /* iwork.tif in Resources */,
+				765DC60D1EA7552D004BF9BD /* ipod-touch.tif in Resources */,
+				765DC6001EA7552D004BF9BD /* apple-wireless-keyboard.tif in Resources */,
 				765DC5B21EA754D9004BF9BD /* LaunchScreen.storyboard in Resources */,
 				765DC5AF1EA754D9004BF9BD /* Assets.xcassets in Resources */,
+				765DC6011EA7552D004BF9BD /* battery-charger.tif in Resources */,
+				765DC61A1EA7552D004BF9BD /* star_sel.png in Resources */,
+				765DC6061EA7552D004BF9BD /* ilife.tif in Resources */,
+				765DC6051EA7552D004BF9BD /* icloud.tif in Resources */,
 				765DC5AD1EA754D9004BF9BD /* Main.storyboard in Resources */,
+				765DC60A1EA7552D004BF9BD /* iphone6.tif in Resources */,
+				765DC5FE1EA7552D004BF9BD /* apple-tv.tif in Resources */,
+				765DC5FD1EA7552D004BF9BD /* apple-pay.tif in Resources */,
+				765DC6021EA7552D004BF9BD /* display.tif in Resources */,
+				765DC6091EA7552D004BF9BD /* ipad-air2.tif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +425,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				765DC5AA1EA754D9004BF9BD /* ViewController.swift in Sources */,
+				765DC6221EA75684004BF9BD /* TestTableViewController.swift in Sources */,
+				765DC6201EA7552E004BF9BD /* ProductLine.swift in Sources */,
 				765DC5A81EA754D9004BF9BD /* AppDelegate.swift in Sources */,
+				765DC61F1EA7552E004BF9BD /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
